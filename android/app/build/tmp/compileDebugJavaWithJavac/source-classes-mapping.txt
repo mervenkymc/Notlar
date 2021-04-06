@@ -1,0 +1,14 @@
+com/notlar/MainActivity.java
+ com.notlar.MainActivity
+com/notlar/MainApplication.java
+ com.notlar.MainApplication
+ com.notlar.MainApplication$1
+com/notlar/ReactNativeFlipper.java
+ com.notlar.ReactNativeFlipper
+ com.notlar.ReactNativeFlipper$1
+ com.notlar.ReactNativeFlipper$2
+ com.notlar.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/notlar/BuildConfig.java
+ com.notlar.BuildConfig

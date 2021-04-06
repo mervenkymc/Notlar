@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Notlar.iml" filepath="$PROJECT_DIR$/.idea/modules/Notlar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Notlar.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Notlar.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1297886056/Notlar.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1297886056/Notlar.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/974134895/Notlar.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/974134895/Notlar.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1744243123/Notlar.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1744243123/Notlar.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/492132120/Notlar.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/492132120/Notlar.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1223046448/Notlar.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1223046448/Notlar.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
