@@ -1,7 +1,7 @@
 import { Metrics, Fonts, Colors } from '../../Constants';
 
 export default {
-  /*   labelStyle: {
+    labelStyle: {
         fontSize: Metrics.width * 0.04,
         fontWeight: '600',
         fontFamily: Fonts.Families.semibold,
@@ -13,5 +13,5 @@ export default {
         justifyContent: 'center',
     },
     activeTintColor: 'white',
-    inactiveTintColor: 'rgba(255,255,255,0.5)', */
+    inactiveTintColor: 'rgba(255,255,255,0.5)',
 };

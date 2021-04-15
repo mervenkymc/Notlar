@@ -1,6 +1,8 @@
 import { StyleSheet } from 'react-native';
 import {Colors, Fonts, Metrics} from '../../../Constants';
 
+console.log('categoryItemStyles');
+
 export default StyleSheet.create({
     container: {
         height: Metrics.width * 0.12,
